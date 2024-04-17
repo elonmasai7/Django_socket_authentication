@@ -1,4 +1,4 @@
-## Django Socket Authentication Example
+## Django Socket Authentication 
 
 This project demonstrates how to implement authentication in Django web sockets. It leverages Django Channels and Daphne to enable asynchronous responses, as Django doesn't support async responses by default.
 
